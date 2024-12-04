@@ -1,4 +1,4 @@
-﻿# ACE-HOLOFS Writers Assastant System for Claude Projects
+﻿# ACE-HOLOFS Writers Assistant System for Claude Projects
 https://www.youtube.com/watch?v=0fVc8wHKmcs
 
 A comprehensive system for creative writing analysis and worldbuilding using Claude AI, implementing Adaptive Capacity Elicitation (ACE) methodology with a Holographic Filesystem (HOLOFS) simulation.
